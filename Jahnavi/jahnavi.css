@@ -1,0 +1,95 @@
+body {
+    margin:0px;
+}
+#header {
+    background-image: linear-gradient(160deg,#604f6f,#817091,  #ef8e73);
+    padding:2em;
+    text-align: center;
+    letter-spacing: 0.5rem;
+}
+h1 {
+    font-family:'Montserrat', sans-serif;
+    color:white;
+    font-size: 4em;
+}
+.skill {
+    display:inline-block;
+    color:#e3c0c0;
+    padding-right: 2.3%;
+    padding-left: 2.3%;
+}
+h5 {
+    text-align: center;
+    font-size: 1.25rem; 
+    letter-spacing: 1.5em; 
+    padding: 2em; 
+    color:#604f6f; 
+}
+#my-photo {
+    float:left;
+    border-radius: 100%;
+    border: 8px dashed pink;
+    width:13%;
+    margin: -2em  8em 1em 25em;
+}
+h4 {
+    font-size: large;
+    margin-bottom: -0.9em;
+    color:#f197a3;
+}
+#about-me p {
+    color:#604f6f;  
+    width: 80%;          
+}
+#interests {
+    clear: both; 
+    text-align: center; 
+    color:#f197a3; 
+    padding-bottom: 3em;
+}
+#interests img {
+    width: 100px;
+}
+#interests span {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+#e-e {
+    background-color: #446594; 
+    font-family: 'Montserrat', sans-serif; 
+    padding: 3em; line-height: 5em;
+}
+#e-e div {
+    display: inline-block;
+}
+#e-e .highlight {
+    border-radius: 20px; background-color:#f197a3; color: white; padding:1em;
+}
+#e-e span {
+    border-radius: 20px;
+    background-color: white;
+    padding: 1em;
+}
+#e-e h2 {
+    color: white;
+}
+h3 span {
+    border-radius: 20px;
+    background-color:#f197a3;padding:1em; clear:both; text-align: center; position: relative; top: 2em;
+}
+#e-e h3 span {
+    align-items: center;
+    clear:both; 
+    text-align: center; 
+    position: relative; 
+    top: 2em;
+    border-radius: 20px;
+    background-color:#f197a3; 
+    padding:1em;
+    border: 3px solid white;
+    
+}
+a {
+    text-decoration: none;
+    color: white;
+}
